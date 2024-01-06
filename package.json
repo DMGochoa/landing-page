@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "deploy": "gh-pages -d src"
+    "deploy": "gh-pages -d ./src/"
   },
   "keywords": [],
   "author": "diego moreno diego.moreno@utp.edu.co",
@@ -16,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/DMGochoa/landing-page/issues"
   },
-  "homepage": "https://github.com/DMGochoa/landing-page#readme",
+  "homepage": "https://github.com/DMGochoa/landing-page",
   "devDependencies": {
     "gh-pages": "^6.1.1"
   }
